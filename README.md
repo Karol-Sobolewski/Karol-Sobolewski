@@ -5,7 +5,7 @@
 
 ## :bald_man: About me
 
-<img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" width="20" alt="React Icon">  Junior Full Stack Developer 
+<img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" height="20" alt="React Icon">  Junior Full Stack Developer 
 </br>
 <a href="https://www.linkedin.com/in/karoljsobolewski/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" alt="LinkedIn">LinkedIn</a>
 <a href="mailto:karolsobolewski92@gmail.com"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/email.svg" alt="Mail">E-Mail</a>
