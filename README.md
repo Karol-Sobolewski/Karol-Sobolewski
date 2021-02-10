@@ -7,10 +7,10 @@
 
 <img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" height="20" alt="React Icon">  Junior Full Stack Developer 
 </br>
-<a href="https://www.linkedin.com/in/karoljsobolewski/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" alt="LinkedIn">LinkedIn</a>
-<a href="mailto:karolsobolewski92@gmail.com"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/email.svg" alt="Mail">E-Mail</a>
-<a href="https://www.instagram.com/struggling_with_web_dev/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg" alt="Instagram">Instagram</a>
-<a href="https://twitter.com/K_J_Sobolewski"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg" alt="Twitter">Twitter</a>
+<a href="https://www.linkedin.com/in/karoljsobolewski/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" alt="LinkedIn" style="width:20px;height:20px">LinkedIn</a>
+<a href="mailto:karolsobolewski92@gmail.com"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/email.svg" alt="Mail" style="width:20px;height:20px">E-Mail</a>
+<a href="https://www.instagram.com/struggling_with_web_dev/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg" alt="Instagram" style="width:20px;height:20px">Instagram</a>
+<a href="https://twitter.com/K_J_Sobolewski"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg" alt="Twitter" style="width:20px;height:20px">Twitter</a>
 
 
 ## 🔧 Technologies
