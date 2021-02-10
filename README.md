@@ -5,19 +5,23 @@
 
 ## :bald_man: About me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karoljsobolewski/)](https://www.linkedin.com/in/karoljsobolewski/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karolsobolewski92@gmail.com)](mailto:karolsobolewski92@gmail.com)
+<img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" width="20" alt="React Icon">  Junior Full Stack Developer 
+</br>
+<a href="https://www.linkedin.com/in/karoljsobolewski/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" alt="LinkedIn" style="width:42px;height:42px;">LinkedIn</a>
+<a href="mailto:karolsobolewski92@gmail.com"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/email.svg" alt="Mail" style="width:42px;height:42px;">E-Mail</a>
+<a href="https://www.instagram.com/struggling_with_web_dev/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg" alt="Instagram" style="width:42px;height:42px;">Instagram</a>
+<a href="https://twitter.com/K_J_Sobolewski"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg" alt="Twitter" style="width:42px;height:42px;">Twitter</a>
 
 
 ## 🔧 Technologies
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)
 
 <!--
 **Karol-Sobolewski/Karol-Sobolewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
