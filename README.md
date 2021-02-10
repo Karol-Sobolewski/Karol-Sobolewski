@@ -1,4 +1,4 @@
-### Hello there, I'm bald one :bald_man:
+### Hello there, I'm the bald one :bald_man:
 
 <img src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" height="20" alt="React Icon">  Junior Full Stack Developer 
 </br>
