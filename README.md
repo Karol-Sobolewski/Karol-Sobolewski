@@ -12,7 +12,7 @@
 
 
 ## 🔧 Technologies
-![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=231f20)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-HTML?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
