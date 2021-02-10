@@ -18,7 +18,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=231f20)
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=231f20)
 ![Redux](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=231f20)
-![Node](https://img.shields.io/badge/Node-informational?style=flat&logo=Node&logoColor=white&color=231f20)
+![NodeJS](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=231f20)
+![Express](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=231f20)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=231f20)
+![WordPress](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=231f20)
+![Photoshop](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=231f20)
+![Illustrator](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Illustrator&logoColor=white&color=231f20)
 
 <!--
 **Karol-Sobolewski/Karol-Sobolewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
