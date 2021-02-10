@@ -13,12 +13,9 @@
 
 ## 🔧 Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=231f20)
-
-![HTML5](https://img.shields.io/badge/-HTML5-HTML?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=231f20)
+![Sass](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=231f20)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=231f20)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)
