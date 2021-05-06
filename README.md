@@ -1,7 +1,6 @@
 ### Hello there, I'm the bald one :bald_man:
 
 <img src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" height="20" alt="React Icon">  Junior Full Stack Developer 
-<img src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" height="20" alt="React Icon">  Junior Full Stack Developer 
 </br>
 <a href="http://www.sobolewski.tk"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/aim.svg" height="20" alt="Portfolio" style="width:20px;height:20px"> Check out my portfolio</a>
 
